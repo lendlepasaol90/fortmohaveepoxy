@@ -1,0 +1,379 @@
+{
+ "hero": {
+  "base": "/images/hero/palm-lined-riverbank-below-desert-mountains",
+  "widths": [
+   480,
+   800,
+   1200,
+   1600,
+   2200
+  ],
+  "w": 2200,
+  "h": 1136,
+  "alt": "Palm-lined riverbank with picnic shade structures below desert mountains"
+ },
+ "riverBand": {
+  "base": "/images/local/calm-river-channel-with-palms-at-sunrise",
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "w": 1600,
+  "h": 1066,
+  "alt": "Calm river channel lined with palms under a clear sky"
+ },
+ "desertDusk": {
+  "base": "/images/local/desert-plateau-at-dusk",
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "w": 1600,
+  "h": 1600,
+  "alt": "Desert plateau glowing orange at dusk"
+ },
+ "boatPort": {
+  "base": "/images/local/boat-and-trailer-parked-beside-a-home",
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "w": 1600,
+  "h": 1126,
+  "alt": "Boat on a trailer and a travel trailer parked beside a block wall"
+ },
+ "jetski": {
+  "base": "/images/local/personal-watercraft-at-sunset",
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "w": 1600,
+  "h": 1066,
+  "alt": "Personal watercraft silhouetted against an orange sunset"
+ },
+ "lakeAerial": {
+  "base": "/images/local/boat-wake-on-teal-water-aerial",
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "w": 1600,
+  "h": 1199,
+  "alt": "Aerial view of a boat wake curving across teal water"
+ },
+ "metalRiver": {
+  "base": "/images/metallic/aqua-and-sand-metallic-epoxy-swirl",
+  "widths": [
+   480,
+   800,
+   1200,
+   1600,
+   2200
+  ],
+  "w": 2200,
+  "h": 1647,
+  "alt": "Metallic epoxy swirl in aqua, slate and sand tones"
+ },
+ "shinyRoom": {
+  "base": "/images/metallic/open-room-with-silver-metallic-floor",
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "w": 1600,
+  "h": 1066,
+  "alt": "Open room with a silver metallic floor reflecting ceiling lights"
+ },
+ "roomTrim": {
+  "base": "/images/residential/bright-room-with-high-gloss-gray-floor",
+  "widths": [
+   480,
+   800,
+   1200,
+   1600,
+   2200
+  ],
+  "w": 2200,
+  "h": 1467,
+  "alt": "Bright room with a high-gloss gray floor and dark trim"
+ },
+ "living": {
+  "base": "/images/residential/lounge-with-seamless-gray-floor",
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "w": 1600,
+  "h": 2133,
+  "alt": "Lounge with a seamless gray floor and wood coffee table"
+ },
+ "homeGym": {
+  "base": "/images/residential/home-gym-on-coated-concrete",
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "w": 1600,
+  "h": 1066,
+  "alt": "Home gym equipment on a dark coated concrete floor"
+ },
+ "terrazzo": {
+  "base": "/images/flake/black-white-and-gray-chip-texture",
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "w": 1600,
+  "h": 1019,
+  "alt": "Close-up of black, white and gray chip texture"
+ },
+ "garageYellow": {
+  "base": "/images/garage/sports-car-in-bright-garage",
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "w": 1600,
+  "h": 1066,
+  "alt": "Yellow sports car parked in a bright garage"
+ },
+ "garageDark": {
+  "base": "/images/garage/bare-concrete-garage-before-coating",
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "w": 1600,
+  "h": 1066,
+  "alt": "Empty garage with bare, stained concrete before coating"
+ },
+ "motoGarage": {
+  "base": "/images/garage/motorcycle-in-home-workshop",
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "w": 1600,
+  "h": 1024,
+  "alt": "Motorcycle parked in a home workshop garage"
+ },
+ "motoLift": {
+  "base": "/images/garage/motorcycle-on-lift-in-shop-garage",
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "w": 1600,
+  "h": 1066,
+  "alt": "Motorcycle on a lift table in a shop garage with shelving"
+ },
+ "crewTrowel": {
+  "base": "/images/process/installer-troweling-fresh-coating",
+  "widths": [
+   480,
+   800,
+   1200,
+   1600,
+   2200
+  ],
+  "w": 2200,
+  "h": 1454,
+  "alt": "Installer in gloves troweling a fresh floor coating"
+ },
+ "mechanic": {
+  "base": "/images/commercial/mechanic-working-on-engine",
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "w": 1600,
+  "h": 1067,
+  "alt": "Mechanic in coveralls working on an engine"
+ },
+ "shopBays": {
+  "base": "/images/commercial/empty-service-bay-with-concrete-floor",
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "w": 1600,
+  "h": 1066,
+  "alt": "Empty service bay with sunlit concrete floor"
+ },
+ "detailers": {
+  "base": "/images/commercial/two-detailers-in-a-shop",
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "w": 1600,
+  "h": 1066,
+  "alt": "Two detailing technicians standing in a bright shop"
+ },
+ "salon": {
+  "base": "/images/commercial/salon-with-light-seamless-floor",
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "w": 1600,
+  "h": 1066,
+  "alt": "Salon stations over a light seamless floor"
+ },
+ "brewery": {
+  "base": "/images/commercial/brewhouse-tanks-over-coated-floor",
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "w": 1600,
+  "h": 1068,
+  "alt": "Stainless brewhouse tanks above a coated production floor"
+ },
+ "hangar": {
+  "base": "/images/industrial/hangar-with-blue-epoxy-floor",
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "w": 1600,
+  "h": 1066,
+  "alt": "Aircraft hangar with a glossy blue epoxy floor"
+ },
+ "hangarSmall": {
+  "base": "/images/industrial/small-plane-in-coated-hangar",
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "w": 1600,
+  "h": 2397,
+  "alt": "Small plane parked in a hangar with a coated floor"
+ },
+ "warehouse": {
+  "base": "/images/industrial/warehouse-aisle-with-racking",
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "w": 1600,
+  "h": 1066,
+  "alt": "Warehouse aisle between tall pallet racking"
+ },
+ "warehouseOpen": {
+  "base": "/images/industrial/open-warehouse-with-sealed-floor",
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "w": 1600,
+  "h": 2844,
+  "alt": "Open warehouse interior with a sealed concrete floor"
+ },
+ "stripes": {
+  "base": "/images/industrial/yellow-and-black-safety-striping",
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "w": 1600,
+  "h": 1066,
+  "alt": "Yellow and black safety striping on a coated floor"
+ },
+ "workshop": {
+  "base": "/images/industrial/fabrication-workshop-floor",
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "w": 1600,
+  "h": 1066,
+  "alt": "Fabrication workshop with steel framing and a concrete floor"
+ },
+ "poolLadder": {
+  "base": "/images/patio/pool-ladder-and-light-deck",
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "w": 1600,
+  "h": 1066,
+  "alt": "Stainless pool ladder beside a light-colored deck"
+ },
+ "loungers": {
+  "base": "/images/patio/pool-deck-with-loungers",
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "w": 1600,
+  "h": 1064,
+  "alt": "Pool deck with loungers and cushions"
+ },
+ "pebble": {
+  "base": "/images/patio/textured-aggregate-concrete-surface",
+  "widths": [
+   480,
+   800,
+   1200,
+   1600,
+   2200
+  ],
+  "w": 2200,
+  "h": 1467,
+  "alt": "Textured aggregate concrete surface close-up"
+ }
+}
